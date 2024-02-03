@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jibmghr
-- 👀 I’m interested in coding and finance.
-- 🌱 I’m currently learning Maths and Computer Science at University.
+- 👀 I’m interested in coding, statistics and economics.
+- 🌱 I’m currently learning Economics and Statistics at University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :jibrilmegh@gmail.com
 
